@@ -11,4 +11,7 @@ class tests(unittest.TestCase):
 
         self.assertEqual(expectedServerOutput, realServerOutput)
 
+    def test_3(self):
+        print("hello world")
+
 unittest.main()
