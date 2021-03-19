@@ -13,12 +13,6 @@ class tests(unittest.TestCase):
 
     def test_3(self):
         print("hello world")
-
-    def test_4(self):
-        exit(0)
-    
-    def test_5(self):
-        exit(1)
     
 
 unittest.main()
