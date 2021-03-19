@@ -5,7 +5,7 @@ A repository to test Github Actions
 
 1. Clone the repository
 2. Compile server.c and client.c into Server and Client
-3. run test.py
+3. Run test.py
 
 ## Usage
 
